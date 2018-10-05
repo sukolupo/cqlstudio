@@ -1,2 +1,2 @@
 # cqlstudio
-CQL Studio - Python Based CQL GUI for Apache
+CQL Studio - Python Based CQL GUI for Apache Cassandra
